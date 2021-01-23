@@ -1,0 +1,11 @@
+{
+  "name": "udi-string-utilsn",
+  "version": "1.0.0",
+  "description": "this package will help you with string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "udi-daniel",
+  "license": "ISC"
+}
